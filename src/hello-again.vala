@@ -21,7 +21,7 @@
 int main (string[] args){
     Gtk.init (ref args);
     var window = new Gtk.Window ();
-    window.title = (_("Hello Again"));
+    window.title = _("Hello Again");
     window.set_border_width (10);
     window.set_position (Gtk.WindowPosition.CENTER);
     window.set_default_size (720, 400);
