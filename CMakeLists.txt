@@ -1,4 +1,3 @@
- # project name
     project (com.github.yourusername.yourrepositoryname)
 
     # the oldest stable cmake version we support
